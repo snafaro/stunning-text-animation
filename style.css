@@ -11,4 +11,9 @@ html, body {
 body{
     background-color: #111;
     color: whitesmoke;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
 }
