@@ -17,3 +17,7 @@ body{
     align-items: center;
     font-size: 30px;
 }
+
+h1 span{
+    display: inline-block;
+}
